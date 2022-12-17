@@ -1,0 +1,10 @@
+Textures used for models:
+- Color palette from Decentraland builder
+- Wood for doors: https://ambientcg.com/view?id=Planks003
+- Water: https://ambientcg.com/view?id=Ice003
+
+I have edited texture color to be more suitable for my work.
+Textures that are not included in links above have been created by me using Inkscape (free and open-source vector graphics editor).
+
+All ambientCG assets are under the Creative Commons CC0 1.0 Universal License. 
+License information: https://docs.ambientcg.com/books/website-licensing/page/license-information
