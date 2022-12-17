@@ -1,0 +1,15 @@
+Theme: The Lost Island
+
+After drinking from The Lost Fountain you fall to the ground and lose consciousness. When you finally come to, you look around and realize you are in a completely different place. In an attempt to figure out what happened and where you are you start exploring the island.
+
+Challenge: Develop The Lost Island on a 2x2 Estate
+
+Requirements:
+• At least 1 item on the island must include animations
+• You must deploy to Decentraland (You can use the Builder or the SDK and DO NOT have to own Land in DCL to deploy in test environments)
+
+Build Constraints:
+• Parcel size: 4
+• Height limit: 46m
+• File Size: 60mb
+• Poly Count: 40,000
