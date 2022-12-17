@@ -7,3 +7,12 @@ First, you need to create/pick 2 completely unrelated objects that would individ
 Your goal:
 MIX & TWIST these objects into a new one that would have a concrete and real usecase in our daily lives.
 The finished object can be themed and follow any colour palette you want.
+
+RULESET:
+
+- Use BLENDER or any 3D modeling software to create the asset (no voxels)
+- Build within 1 parcel maximum, e.g. a 16x16 meter space
+- 20m build height
+- 10k polycount limit
+- Information on DCL scene limitations: https://docs.decentraland.org/development-guide/scene-limitations/
+- Learn about how to get started in DCL: https://sandstorm.co/decentraland/
