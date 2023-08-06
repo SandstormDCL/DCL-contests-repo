@@ -1,0 +1,22 @@
+As you wandered through a forest, you stumbled upon the fascinating tiny world living inside the bright green plants:
+Every leaf served as a canvas showcasing intricate networks of veins, each flower was a palace for unseen pollinators, and every blade of grass was a high-rise for minute creatures, collectively unraveling the breathtaking complexity and fantastical charm of the vegetal microcosm.
+
+📢 Challenge: Recreate a miniature world in Decentraland.... but at human scale!
+
+🛠️ Build constraints: 🛠️ 
+
+The representation needs to fit within a 2x2 plot sized build (maximum)
+- Max. polycount: 40k
+- Height limit: 46m
+- File Size Limit: 60mb
+[Important] Make sure to adapt the scale of the microscopic world to the standard character scale - the scale is up to you to determine (example: A leaf is as big as a full character avatar)
+[BONUS] Recreate a few creatures that live in the environment!
+
+🛠️ Presentation constraints: 🛠️
+
+The presentation is very flexible, but it needs to:
+
+1. Present the asset from all sides
+2. Include a section of the presentation where you can see the asset deployed in Decentraland
+
+Note: You can create cinematic trailers, renders, etc. in any way you want as long as you respect the 2 rules above
